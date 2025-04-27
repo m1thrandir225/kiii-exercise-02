@@ -1,5 +1,4 @@
-name: Lint & Build
-
+name: Lint Code & Build
 on:
   push:
     branches: ["master"]
